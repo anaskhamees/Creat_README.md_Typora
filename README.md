@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Creat_README.md_Typora
-=======
 # How to Write README.md file using Typora .
 
 ### 1. Install Typora 
@@ -119,7 +116,7 @@ int main(void)
 
 - You can select the Programming Language as you like 
 
-![](/home/anas/README.md_Typora_Repo/README.assets/Screenshot from 2023-12-24 20-09-45.png)
+![Screenshot from 2023-12-24 20-09-45](README.assets/Screenshot from 2023-12-24 20-09-45.png)
 
 - you can select **Code Fences** from **paragraph** in the tool-par as follow:
 
@@ -176,7 +173,7 @@ OR You can use right arrow sign (>) before the sentences.
 - The syntax of create hyper-link as follow:
   ![](/home/anas/Pictures/Screenshots/Screenshot from 2023-12-24 18-17-01.png) , For example:
 
-[MyLinkedInAccount](https://www.linkedin.com/in/anas-khamees12/)      ![](/home/anas/README.md_Typora_Repo/README.assets/Screenshot from 2023-12-24 21-24-28.png)
+[MyLinkedInAccount](https://www.linkedin.com/in/anas-khamees12/)    ![Screenshot from 2023-12-24 21-24-28](README.assets/Screenshot from 2023-12-24 21-24-28.png)
 
 - Or you can Select Hyper Link option from **Format** in the tool-par as follow:
 
