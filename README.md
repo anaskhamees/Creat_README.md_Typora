@@ -168,10 +168,8 @@ OR You can use right arrow sign (>) before the sentences.
 
 #### 2.6. Hyper Links
 
-- The syntax of create hyper-link as follow:
-- ![Screenshot from 2023-12-24 18-17-01](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/b9e401c7-e027-45a7-93af-960cd6f3fb60)
--  For example:
-[MyLinkedInAccount](https://www.linkedin.com/in/anas-khamees12/) 
+- The syntax of create hyper-link as follow:![Screenshot from 2023-12-24 18-17-01](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/b9e401c7-e027-45a7-93af-960cd6f3fb60)
+- For example:[MyLinkedInAccount](https://www.linkedin.com/in/anas-khamees12/) 
 ![Screenshot from 2023-12-24 21-24-28](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/7c8cab03-f561-49bd-a1da-813949495bf1)
 
 - Or you can Select Hyper Link option from **Format** in the tool-par as follow:
