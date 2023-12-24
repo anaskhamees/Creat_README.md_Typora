@@ -170,7 +170,8 @@ OR You can use right arrow sign (>) before the sentences.
   
 ![Screenshot from 2023-12-24 18-17-01](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/b9e401c7-e027-45a7-93af-960cd6f3fb60)
   
-- Example:[MyLinkedInAccount](https://www.linkedin.com/in/anas-khamees12/) ![Screenshot from 2023-12-24 21-24-28](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/7c8cab03-f561-49bd-a1da-813949495bf1)
+- Example:[MyLinkedInAccount](https://www.linkedin.com/in/anas-khamees12/)
+  ![Screenshot from 2023-12-24 21-24-28](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/7c8cab03-f561-49bd-a1da-813949495bf1)
   
 - Or you can Select Hyper Link option from **Format** in the tool-par as follow:
 ![Screenshot from 2023-12-24 18-24-24](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/bfaacc9e-6bfe-46c5-b0e0-4f8c7a45ee8b)
@@ -179,7 +180,7 @@ OR You can use right arrow sign (>) before the sentences.
 #### 2.7. Insert Images
 
 > There are many methods to insert images to README.md file, also you can drag the images and drop them on the Github server directly by Select **Edit file** and drop the image in any position in the file.
->
+> **This is the easiest way**
 > ![Screenshot from 2023-12-24 21-38-00](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/7e4348c1-c79c-4200-8d05-355aa86e9728)
 
 
