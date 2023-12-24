@@ -20,7 +20,8 @@ sudo apt-get install typora
 
 But you **may** face this error:
 
-![](README.assets/Screenshot from 2023-12-24 14-54-27.png) 
+![Screenshot from 2023-12-24 14-54-27](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/faae6384-5f8c-402a-9892-00401273fe22)
+
 
 - Solve this issue by use ***snap*** package manager instead of ***apt***  [SOLVED] 
 
