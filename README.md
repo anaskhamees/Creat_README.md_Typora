@@ -193,8 +193,7 @@ OR You can use right arrow sign (>) before the sentences.
 
     > **Copy image to ./${filename}.assets** option creates folder automatically called ***README.assets***    to save the all images used in README.md file, this assets folder is uploaded with the Repo to provide Github server with images source.
 
-  ![22 41 47(1)](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/1ebef08b-489c-4d54-90ec-bbb8f57b72b3)
-
+    ![22 41 47(1)](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/30f9e275-afa6-4495-b3a7-9a805ed8ad78)
 
 
   - If you forget to select **Copy image to ./${filename}.assets**  option and added the images already, Don't worry :
