@@ -176,7 +176,8 @@ OR You can use right arrow sign (>) before the sentences.
   ![Screenshot from 2023-12-24 18-17-01](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/b9e401c7-e027-45a7-93af-960cd6f3fb60)
  , For example:
 
-[MyLinkedInAccount](https://www.linkedin.com/in/anas-khamees12/) ![Screenshot from 2023-12-24 21-24-28](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/7c8cab03-f561-49bd-a1da-813949495bf1)
+[MyLinkedInAccount](https://www.linkedin.com/in/anas-khamees12/) 
+![Screenshot from 2023-12-24 21-24-28](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/7c8cab03-f561-49bd-a1da-813949495bf1)
 
 - Or you can Select Hyper Link option from **Format** in the tool-par as follow:
 ![Screenshot from 2023-12-24 18-24-24](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/bfaacc9e-6bfe-46c5-b0e0-4f8c7a45ee8b)
@@ -207,11 +208,11 @@ OR You can use right arrow sign (>) before the sentences.
     > Select the image and Right Click on it, then select this option: **Copy to README.assets**.
     >
     > This Option copies The images to **README.assets** folder automatically.
-![22 25 46](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/fea0efc9-3a27-4ff3-bb17-4f785fdef643)
+    ![22 25 46](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/fea0efc9-3a27-4ff3-bb17-4f785fdef643)
 
 
   - Finally  Select **Image** then **Insert Image** option from **Format** in the tool-par as follow:
-![image-20231224225908734](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/4a53c41c-d4ff-4972-a5ad-410d98a35c21)
+  ![image-20231224225908734](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/4a53c41c-d4ff-4972-a5ad-410d98a35c21)
 
 
   - Click on the URL icon to select your Image as follow: 
