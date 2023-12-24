@@ -31,15 +31,15 @@ sudo snap install typora
 
 then the **snap** will download **typora** and install it.
 
-![](README.assets/Screenshot from 2023-12-24 14-56-53-1703444980032-8.png)
-
+![Screenshot from 2023-12-24 14-56-53-1703444980032-8](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/d6d4c16d-53b1-4e20-9e12-24b98d6530d1)
 
 
 #### 1.2. On Windows OS:
 
 - Go to the typora Website [clickHere](https://typora.io/) , download your suitable version (Win 64bit or 32bit) and install it.
 
-  ![Screenshot from 2023-12-24 21-06-24](README.assets/Screenshot from 2023-12-24 21-06-24.png)
+  ![Screenshot from 2023-12-24 21-06-24](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/59ae9e3b-b9d2-4199-ad35-168289d06741)
+
 
 ### 2. Open typora 
 
@@ -48,10 +48,10 @@ then the **snap** will download **typora** and install it.
 ```
 typora
 ```
+![Screenshot from 2023-12-24 14-58-06](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/9e96b168-ea15-44ff-b904-c940840dc410)
 
-![](README.assets/Screenshot from 2023-12-24 14-58-06.png)
+![Screenshot from 2023-12-24 16-05-42](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/da00ad44-2f7d-43cb-8c5d-8c0c301816ef)
 
-![](README.assets/Screenshot from 2023-12-24 16-05-42.png)
 
 > From Here In case of Linux or Windows OS.
 
