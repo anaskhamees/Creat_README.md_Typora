@@ -59,7 +59,8 @@ typora
 
 - You can select the font heading from **paragraph** in the tool-par as follow :
 
-![image-20231224155834157](README.assets/image-20231224155834157.png)
+![image-20231224155834157](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/44ba6bac-2075-4577-ad80-5c0463b6c2e5)
+
 
 Or use a number of (# )signs before of a word or phrase. Take care about the space after # sign. 
 
