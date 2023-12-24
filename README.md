@@ -83,11 +83,11 @@ Or use a number of (# )signs before of a word or phrase. Take care about the spa
 
 - You can select **Table** from **paragraph** in the tool-par as follow
 
-![](README.assets/Screenshot from 2023-12-24 16-13-29.png)
+![Screenshot from 2023-12-24 16-13-29](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/8e3bb8c1-6a09-488d-877a-6d6067633065)
 
 - Then select **Insert Table** and determine the number of columns and rows as you want.
+![Screenshot from 2023-12-24 16-15-43](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/657d9336-d387-4525-9a50-c33844f39902)
 
-![](README.assets/Screenshot from 2023-12-24 16-15-43.png)
 
 | **Column 1 , Row 1** | **Column 2 , Row 1** | **Column 3 , Row 1** |
 | :------------------: | :------------------: | :------------------: |
@@ -117,11 +117,12 @@ int main(void)
 
 - You can select the Programming Language as you like 
 
-![Screenshot from 2023-12-24 20-09-45](README.assets/Screenshot from 2023-12-24 20-09-45.png)
+![Screenshot from 2023-12-24 20-09-45](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/b6c0e4ea-d4df-47ac-96cf-f34218ae3b03)
+
 
 - you can select **Code Fences** from **paragraph** in the tool-par as follow:
+![Screenshot from 2023-12-24 16-35-02](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/3aba3591-19fb-45c1-9d28-5b840cd403e0)
 
-![](README.assets/Screenshot from 2023-12-24 16-35-02.png)
 
 #### 2.4.  List
 
@@ -154,8 +155,8 @@ Arrange some of points by order like that:
   - Third Part of First Point.
 
   You can Select those options from **paragraph** in the tool-par as follow:
+![Screenshot from 2023-12-24 18-06-47](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/cd733c11-784f-406f-ac41-47c8a26a5e25)
 
-  ![](README.assets/Screenshot from 2023-12-24 18-06-47.png)
 
 #### 2.5. Quote
 
@@ -164,58 +165,59 @@ Arrange some of points by order like that:
 > Note that, In my opinion there is not only specific way to make a professional README.md file, But definitely the the most mistake is not include your README.md file with your project.
 
 You can Select Quote option from **paragraph** in the tool-par as follow:
+![Screenshot from 2023-12-24 19-21-44](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/c0e0f108-326d-468c-a965-374288628d0c)
 
-![](README.assets/Screenshot from 2023-12-24 19-21-44.png)
 
 OR You can use right arrow sign (>) before the sentences.
 
 #### 2.6. Hyper Links
 
 - The syntax of create hyper-link as follow:
-  ![](/home/anas/Pictures/Screenshots/Screenshot from 2023-12-24 18-17-01.png) , For example:
+  ![Screenshot from 2023-12-24 18-17-01](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/b9e401c7-e027-45a7-93af-960cd6f3fb60)
+ , For example:
 
-[MyLinkedInAccount](https://www.linkedin.com/in/anas-khamees12/)    ![Screenshot from 2023-12-24 21-24-28](README.assets/Screenshot from 2023-12-24 21-24-28.png)
+[MyLinkedInAccount](https://www.linkedin.com/in/anas-khamees12/) ![Screenshot from 2023-12-24 21-24-28](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/7c8cab03-f561-49bd-a1da-813949495bf1)
 
 - Or you can Select Hyper Link option from **Format** in the tool-par as follow:
+![Screenshot from 2023-12-24 18-24-24](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/bfaacc9e-6bfe-46c5-b0e0-4f8c7a45ee8b)
 
-![](README.assets/Screenshot from 2023-12-24 18-24-24.png)
 
 #### 2.7. Insert Images
 
 > There are many methods to insert images to README.md file, also you can drag the images and drop them on the Github server directly by Select **Edit file** and drop the image in any position in the file.
 >
-> ![Screenshot from 2023-12-24 21-38-00](README.assets/Screenshot from 2023-12-24 21-38-00.png) 
+> ![Screenshot from 2023-12-24 21-38-00](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/7e4348c1-c79c-4200-8d05-355aa86e9728)
+
 
 - #### Insert the images using Typora
 
   - Select **File** from the tool-bars then select **Preferences** 
+![Screenshot from 2023-12-24 20-14-38](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/9131f1a7-827b-402f-8e6b-9f868e4400f1)
 
-    ![Screenshot from 2023-12-24 20-14-38](README.assets/Screenshot from 2023-12-24 20-14-38.png)
-
-  - Select **Image**, then change the ***When Insert Images*** option to: **Copy image to ./${filename}.assets**![](README.assets/2023-12-24 at 22.04.28.jpeg)
+  - Select **Image**, then change the ***When Insert Images*** option to: **Copy image to ./${filename}.assets**
+![2023-12-24 at 22 04 28](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/ca308272-7b3c-4103-8121-dd1fd57f1397)
 
     > **Copy image to ./${filename}.assets** option creates folder automatically called ***README.assets***    to save the all images used in README.md file, this assets folder is uploaded with the Repo to provide Github server with images source.
 
+![22 41 47](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/3d555d6c-af15-4175-b407-149a43253493)
 
-  ![](README.assets/22.41.47.jpeg)
-
-  
 
   - If you forget to select **Copy image to ./${filename}.assets**  option and added the images already, Don't worry :
 
     > Select the image and Right Click on it, then select this option: **Copy to README.assets**.
     >
     > This Option copies The images to **README.assets** folder automatically.
+![22 25 46](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/fea0efc9-3a27-4ff3-bb17-4f785fdef643)
 
-  ![22.25.46](README.assets/22.25.46.jpeg)
 
   - Finally  Select **Image** then **Insert Image** option from **Format** in the tool-par as follow:
+![image-20231224225908734](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/4a53c41c-d4ff-4972-a5ad-410d98a35c21)
 
-    ![image-20231224225908734](README.assets/image-20231224225908734.png)
 
   - Click on the URL icon to select your Image as follow: 
 
-  ![image-20231224230515787](README.assets/image-20231224230515787.png)
+  ![image-20231224230515787](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/dc1a4856-d556-4940-a12d-3dd0828bcb0f)
+
 
 
 
