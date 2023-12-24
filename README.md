@@ -120,8 +120,7 @@ int main(void)
 ![Screenshot from 2023-12-24 20-09-45](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/b6c0e4ea-d4df-47ac-96cf-f34218ae3b03)
 
 
-- you can select **Code Fences** from **paragraph** in the tool-par as follow:
-![Screenshot from 2023-12-24 16-35-02](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/3aba3591-19fb-45c1-9d28-5b840cd403e0)
+- you can select **Code Fences** from **paragraph** in the tool-par as follow:![Screenshot from 2023-12-24 16-35-02](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/3aba3591-19fb-45c1-9d28-5b840cd403e0)
 
 
 #### 2.4.  List
@@ -154,8 +153,7 @@ Arrange some of points by order like that:
   - Second Part of First Point.
   - Third Part of First Point.
 
-  You can Select those options from **paragraph** in the tool-par as follow:
-![Screenshot from 2023-12-24 18-06-47](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/cd733c11-784f-406f-ac41-47c8a26a5e25)
+  You can Select those options from **paragraph** in the tool-par as follow:![Screenshot from 2023-12-24 18-06-47](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/cd733c11-784f-406f-ac41-47c8a26a5e25)
 
 
 #### 2.5. Quote
