@@ -251,6 +251,8 @@ done
 >
 > - `cd $HOME/Pictures/Screenshots`: Change the  current working directory to $HOME/Pictures/Screenshots. This is the  directory where the script will perform the renaming of files.
 >
+> ![Screenshot_from_2024-01-26_20-09-05](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/1f6c2385-c8c5-4783-a568-acb067dc4804)
+
 > - `for afile in *.png;` : Loop through all files with a `.png` extension in the current directory.
 >
 > - `if echo "$afile" | grep -q ' '; then`: This  line checks if the file name contains any white spaces by using grep. 
@@ -286,12 +288,14 @@ done
 > - **`echo "Renamed: $afile to $newfilenm"`:**
 >
 >   - This line prints a message indicating that the file has been renamed.
+![Screenshot_from_2024-01-26_20-08-47](https://github.com/anaskhamees/Creat_README.md_Typora/assets/52020047/9773d9fc-64e3-473c-b9d6-bc9fa6f12bf3)
 
 **Remember that everything in Linux is a file, So the image is considered as a file**.
 
 **Conclusion**  : this script takes the current filename (`$afile`), replaces spaces with underscores, renames the file, and prints a  message confirming the renaming. 
 
 The goal is to ensure that filenames  with spaces are replaced with a more GitHub-friendly format  (underscore-separated) for successful upload to GitHub.
+
 
 
 TO BE CONTINUED   . . . . . . . . . . .
