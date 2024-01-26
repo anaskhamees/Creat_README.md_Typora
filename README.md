@@ -215,7 +215,53 @@ OR You can use right arrow sign (>) before the sentences.
 
 
 
+#### 2.8. Solve The White Spaces in Image Name Problem
 
+Run This Script Below
+```
+#!/bin/sh
 
+#Author : Anas Khamees
+#Date   : 26/1/2024  19:00
+#Brief  : Replace any White Space by underscore(_) in Image Name to upload the images successfully to github. 
+
+# Change to the directory of Images
+
+cd $HOME/Pictures/Screenshots   #By default
+
+# Iterate through PNG files in the directory
+for afile in *.png; 
+do
+    # Check if the file name contains white spaces
+    if echo "$afile" | grep -q ' '; then
+        # Replace white spaces with underscores
+        newfilenm=$(echo "$afile" | tr ' ' '_')
+        
+        # Rename the file
+        mv "$afile" "$newfilenm"
+        echo "Renamed: $afile to $newfilenm"
+    fi
+done
+```
+>- `#!/bin/sh`: This line is the shebang, indicating that the script should be interpreted using the Bourne shell.
+>- `cd $HOME/Pictures/Screenshots`: Change the current working directory to $HOME/Pictures/Screenshots. This is the directory where the script will perform the renaming of files.
+>  
+>- `for afile in *.png;` : Loop through all files with a `.png` extension in the current directory.
+>- `if echo "$afile" | grep -q ' '; then`: This line checks if the file name contains any white spaces by using grep. The -q option makes grep quiet, and it returns a success status if a space is found in the file name.
+>  
+  >  `echo "$afile"`:
+        echo is a command that prints the value of its arguments to the standard output (usually the terminal).
+        "$afile" is a variable that holds the current filename being processed in the loop.
+
+    | (Pipe Operator):
+        The pipe operator (|) is used to connect the output of one command (echo "$afile") to the input of another command (grep -q ' '). This is known as piping.
+
+    grep -q ' ':
+        grep is a command-line utility for searching patterns in text.
+        -q option stands for quiet or silent mode. It instructs grep to operate quietly without producing output. It's often used when the goal is to check for the existence of a pattern without displaying the matched lines.
+        ' ' is the pattern being searched for, and in this case, it's a single space.
+
+    then:
+        then is a keyword that signifies the beginning of the block of code to be executed if the condition in the if statement is true.
 
 TO BE CONTINUED   . . . . . . . . . . .
