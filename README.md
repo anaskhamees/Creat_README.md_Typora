@@ -218,7 +218,8 @@ OR You can use right arrow sign (>) before the sentences.
 #### 2.8. Solve The White Spaces in Image Name Problem
 
 Run This Script Below
-```
+
+```bash
 #!/bin/sh
 
 #Author : Anas Khamees
@@ -243,25 +244,54 @@ do
     fi
 done
 ```
->- `#!/bin/sh`: This line is the shebang, indicating that the script should be interpreted using the Bourne shell.
->- `cd $HOME/Pictures/Screenshots`: Change the current working directory to $HOME/Pictures/Screenshots. This is the directory where the script will perform the renaming of files.
->  
->- `for afile in *.png;` : Loop through all files with a `.png` extension in the current directory.
->- `if echo "$afile" | grep -q ' '; then`: This line checks if the file name contains any white spaces by using grep. The -q option makes grep quiet, and it returns a success status if a space is found in the file name.
->  
-  >  `echo "$afile"`:
-        echo is a command that prints the value of its arguments to the standard output (usually the terminal).
-        "$afile" is a variable that holds the current filename being processed in the loop.
 
-    | (Pipe Operator):
-        The pipe operator (|) is used to connect the output of one command (echo "$afile") to the input of another command (grep -q ' '). This is known as piping.
 
-    grep -q ' ':
-        grep is a command-line utility for searching patterns in text.
-        -q option stands for quiet or silent mode. It instructs grep to operate quietly without producing output. It's often used when the goal is to check for the existence of a pattern without displaying the matched lines.
-        ' ' is the pattern being searched for, and in this case, it's a single space.
 
-    then:
-        then is a keyword that signifies the beginning of the block of code to be executed if the condition in the if statement is true.
+> - `#!/bin/sh`: This line is the shebang, indicating that the script should be interpreted using the Bourne shell.
+>
+> - `cd $HOME/Pictures/Screenshots`: Change the  current working directory to $HOME/Pictures/Screenshots. This is the  directory where the script will perform the renaming of files.
+>
+> - `for afile in *.png;` : Loop through all files with a `.png` extension in the current directory.
+>
+> - `if echo "$afile" | grep -q ' '; then`: This  line checks if the file name contains any white spaces by using grep. 
+>
+>   >- `"afile"` is a local variable that takes on each value in the list of files matching the pattern `*.png` during each iteration of the loop.
+>   >
+>   >  `"$afile"` is the value of the variable `afile`, and it represents the current filename being processed in the loop.
+>   >
+>   >- **`|` (Pipe Operator):** It is used to connect the output of one command (`echo "$afile"`) to the input of another command (`grep -q ' '`).
+>   >
+>   >- **`grep -q ' '`:**
+>   >
+>   >  - `grep` is a command-line utility for searching patterns in text.
+>   >  - `-q` option stands for quiet or silent mode. It instructs `grep` to operate quietly without producing output. It's often used when the goal is to check for the existence of a pattern without displaying the matched lines.
+>   >
+>   >- `' '` is the pattern being searched for, and in this case, it's a white space.
+>   >
+>   >- **`then`:** is a keyword that signifies the beginning of the block of code to be executed if the condition in the `if` statement is true.
+>
+> - **`newfilenm=$(echo "$afile" | tr ' ' '_')`:**
+>
+>   - `echo "$afile"` prints the current filename stored in the variable `$afile`.
+>   - `tr ' ' '_'` is a command that replace or delete characters. In this case, it replaces spaces with underscores.
+>   - `newfilenm` now contains the image name with underscores instead of white spaces.
+>
+> - **`mv "$afile" "$newfilenm"`:**
+>
+>   - `mv` is the command for moving or renaming files.
+>   - `"$afile"` is the original image name (with spaces).
+>   - `"$newfilenm"` is the new image (with underscores).
+>   - This line effectively renames the file (image name).
+>
+> - **`echo "Renamed: $afile to $newfilenm"`:**
+>
+>   - This line prints a message indicating that the file has been renamed.
+
+**Remember that everything in Linux is a file, So the image is considered as a file**.
+
+**Conclusion**  : this script takes the current filename (`$afile`), replaces spaces with underscores, renames the file, and prints a  message confirming the renaming. 
+
+The goal is to ensure that filenames  with spaces are replaced with a more GitHub-friendly format  (underscore-separated) for successful upload to GitHub.
+
 
 TO BE CONTINUED   . . . . . . . . . . .
